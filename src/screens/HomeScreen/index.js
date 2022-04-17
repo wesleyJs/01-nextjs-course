@@ -98,7 +98,7 @@ export default function HomeScreen() {
   return (
     <Box>
       <Head>
-        <title>Home - Alura Cases Campanha</title>
+        <title>Home - Cases Alura Campanha</title>
       </Head>
       <Box
         as="main"
